@@ -1,4 +1,5 @@
 Retail Store Sales Dashboard (Power BI)
+
 📌 Overview
 
 This project showcases an interactive Retail Sales Dashboard developed using Power BI. The dashboard is designed to transform raw sales data into meaningful insights, helping business owners monitor performance and make data-driven decisions.
