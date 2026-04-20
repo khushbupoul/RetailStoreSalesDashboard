@@ -56,5 +56,5 @@ git clone https://github.com/khushbupoul/RetailStoreSalesDashboard.git
 ```
 
 ## Link to the Dataset
-- [Retail Store Sales Dataset](https://github.com/khushbupoul/RetailStoreSalesDashboard/tree/main/Dataset)
+- [Retail Store Sales Dataset](https://github.com/khushbupoul/RetailStoreSalesDashboard/tree/main/Dataset)   
 
